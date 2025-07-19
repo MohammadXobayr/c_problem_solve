@@ -1,8 +1,6 @@
 # c_loop_problem_solve
-simply you input anything 
-and your take your expected output
 
-🌀 1. Loop (for / while / do-while)
+1. Loop (for / while / do-while)
 Print 1 to 10:
 Write a program to print numbers from 1 to 10 using a for loop.
 
