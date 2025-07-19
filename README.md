@@ -1,4 +1,6 @@
 # c_loop_problem_solve
+simply you input anything 
+and your take your expected output
 
 🌀 1. Loop (for / while / do-while)
 Print 1 to 10:
@@ -15,3 +17,5 @@ Take input N and print the sum of all numbers from 1 to N.
 
 5. Multiplication table of a number:
 Take input N and print the multiplication table of that number up to 10.
+
+aouthor - Mohammad xobayr .
