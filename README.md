@@ -1,4 +1,4 @@
-# c_loop_problem_solve
+# 5_c_loop_problem_solve
 
 1. Loop (for / while / do-while)
 Print 1 to 10:
